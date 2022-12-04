@@ -24,4 +24,5 @@ The NFTs are available on the OpenSea marketplace. You can buy them directly fro
 | -------------- | ----------- | ----- |
 | n-days-ai-0001 | Liège Guillemins 2048 | ![n-days-ai-0001](./assets/n-days-ai/n-days-ai-0001.jpg) |
 | n-days-ai-0002 | Manneken Gold Future | ![n-days-ai-0002](./assets/n-days-ai/n-days-ai-0002.jpg) |
+| n-days-ai-0003 | Gray Lambert | ![n-days-ai-0003](./assets/n-days-ai/n-days-ai-0003.jpg) |
 
