@@ -25,4 +25,11 @@ The NFTs are available on the OpenSea marketplace. You can buy them directly fro
 | n-days-ai-0001 | Liège Guillemins 2048 | ![n-days-ai-0001](./assets/n-days-ai/n-days-ai-0001.jpg) |
 | n-days-ai-0002 | Manneken Gold Future | ![n-days-ai-0002](./assets/n-days-ai/n-days-ai-0002.jpg) |
 | n-days-ai-0003 | Gray Lambert | ![n-days-ai-0003](./assets/n-days-ai/n-days-ai-0003.jpg) |
+| n-days-ai-0004 | The man from Liege and the lion | ![n-days-ai-0004](./assets/n-days-ai/n-days-ai-0004.jpg) |
 
+### Listing on OpenSea
+
+- n-days-ai-0001: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/471298246203958670204159396234867554034741885956824918471549294812990537729/
+- n-days-ai-0002: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/471298246203958670204159396234867554034741885956824918471549297012013793281/
+- n-days-ai-0003: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/471298246203958670204159396234867554034741885956824918471549295912502165505/
+- n-days-ai-0004: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/471298246203958670204159396234867554034741885956824918471549298111525421057/
